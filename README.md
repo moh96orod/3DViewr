@@ -4,4 +4,4 @@
 (پروژه درحال توسعه است و بزودی آپدیت جدید می آید.
 
 تصویری از محیط پروژه:
-![Uploading image.png…]()
+![alt text](https://s6.uupload.ir/files/dfd_z9xp.png)
