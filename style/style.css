@@ -1,0 +1,138 @@
+@font-face {
+    font-family: Quicksand;
+    src: url("./font/Quicksand.ttf");
+}
+
+body {
+    font-family: Quicksand;
+    background-color: #2a2b2e;
+    direction: ltr;
+    font-size: 20px;
+}
+
+.selectionPointer {
+    cursor: url(https://cdn-icons-png.flaticon.com/128/75/75434.png) 2 2, auto;;
+}
+
+.bin {
+    position: absolute;
+}
+
+.loading {
+    position: absolute;
+    display: none;
+}
+
+.loading > img {
+    width: 200px;
+    height: 200px;
+}
+
+* {
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.icon {
+    width: 150px;
+    height: 90px;
+}
+
+.dark-menu {
+    background-color: #2a2b2e;
+    color: white;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.dark-menu2 {
+    background-color: #2a2b2e;
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+}
+
+hr {
+    color: white;
+    height: px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.litle-icon {
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+}
+
+.description {
+    font-size: 14px;
+    letter-spacing: 1.5px;
+}
+
+.menus {
+    padding-top: 15px;
+    padding-left: 5px;
+    background-color: #3d3e42;
+    border: 1px solid #3d3e42;
+}
+
+.bookmark {
+    background-color: #3d3e42;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.first-section {
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    direction: ltr;
+    border: 1px solid #3d3e42;
+}
+
+.second-section {
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    direction: ltr;
+    border: 1px solid #3d3e42;
+    height: 250px;
+}
+
+.third-section {
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    direction: ltr;
+    border: 1px solid #3d3e42;
+    height: 270px;
+}
+
+.ai-engine {
+    color: white;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.section {
+    color: white;
+}
+
+.new-bookmark {
+    display: none;
+}
+
+input {
+    color: black;
+}

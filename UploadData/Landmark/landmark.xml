@@ -1,0 +1,74 @@
+<module>
+  <name>3DScanLandmarks</name>
+  <lang>English</lang>
+  <landmark name="3DScanLandmarks">
+    <fullname>3DScanLandmarks</fullname>
+    <shortname>Model</shortname>
+    <img1>../image/close.png</img1>
+    <img2>../image/eye.png</img2>
+    <details>fgfgfgfgfgfg</details>
+  </landmark>
+  <name>Module 1</name>
+  <lang>English</lang>
+  <landmark name="Module 1">
+    <fullname>Module 1</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1>../image/close.png</img1>
+    <img2></img2>
+    <details>details of landmark</details>
+  </landmark>
+  <name>Module 2</name>
+  <lang>English</lang>
+  <landmark name="Module 2">
+    <fullname>Module 2</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1></img1>
+    <img2></img2>
+    <details>details of landmark</details>
+  </landmark>
+  <name>Module 3</name>
+  <lang>English</lang>
+  <landmark name="Module 3">
+    <fullname>Module 3</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1>url of image1</img1>
+    <img2>url of img2</img2>
+    <details>details of landmark</details>
+  </landmark>
+  <name>Module 4</name>
+  <lang>English</lang>
+  <landmark name="Module 4">
+    <fullname>Module 4</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1>url of image1</img1>
+    <img2>url of img2</img2>
+    <details>details of landmark</details>
+  </landmark>
+  <name>Module 5</name>
+  <lang>English</lang>
+  <landmark name="Module 5">
+    <fullname>Module 5</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1>url of image1</img1>
+    <img2>url of img2</img2>
+    <details>details of landmark</details>
+  </landmark>
+  <name>Module 6</name>
+  <lang>English</lang>
+  <landmark name="Module 6">
+    <fullname>Module 6</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1>url of image1</img1>
+    <img2>url of img2</img2>
+    <details>details of landmark</details>
+  </landmark>
+  <name>Module 7</name>
+  <lang>English</lang>
+  <landmark name="Module 7">
+    <fullname>Module 7</fullname>
+    <shortname>short name of landmark</shortname>
+    <img1>url of image1</img1>
+    <img2>url of img2</img2>
+    <details>details of landmark</details>
+  </landmark>
+</module>
